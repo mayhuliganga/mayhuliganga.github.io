@@ -1,11 +1,16 @@
 [
   {
     "title": "login page",
+<<<<<<< HEAD
     "description": "A simple application for managing student records: add, view, update and delete entries stored in a database. (Replace with your own description.)",
     "technologies": ["Java", "MySQL"],
+=======
+    "description": "A simple website to login to your account",
+    "technologies": ["html", "css"],
+>>>>>>> 0eb0be13d15a4c6833367542852b08488d9df6eb
     "role": "Developer",
     "screenshot": "images/project1.jpg",
-    "link": "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-1"
+    "link": "https://mayhuliganga.github.io/login-page/"
   },
   {
     "title": "Personal Website",

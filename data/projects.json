@@ -9,10 +9,18 @@
   },
   {
     "title": "Personal Website",
-    "description": "My personal portfolio website where I can showcase my skills, contact details and designed to be respomsive on any device.",
+    "description": "My personal portfolio website where I can showcase my skills, contact details and designed to be responsive on any device.",
     "technologies": ["HTML", "CSS"],
     "role": "Designer and developer",
     "screenshot": "images/project2.jpeg",
     "link": "https://mayhuliganga.github.io/personal-website/"
+  },
+  {
+    "title": "Personal Website",
+    "description": "A web app for posting and finding lost items on campus, with search, category filters, and claim tracking.",
+    "technologies": ["HTML", "CSS", "JAVASCRIPT"],
+    "role": "Designer and developer",
+    "screenshot": "images/project3.png",
+    "link": "https://mayhuliganga.github.io/lost-and-found/"
   }
 ]
